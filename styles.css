@@ -78,7 +78,7 @@ marquee{
     display: block;
     margin: auto;
     /* border: 1px solid red; */
-    height: 555px;
+    height: auto;
     background-image: url(py.jpg);
     background-repeat: no-repeat;
     background-size: contain;
@@ -131,4 +131,8 @@ marquee{
     display: block;
     height: 40px;
     text-align: center;
+}
+footer{
+    height: 50px;
+    border: 2px solid red;
 }
