@@ -169,6 +169,7 @@ top: 15px;
     /* border: 1px solid red; */
     background-color: lightblue;
     margin-top: 6px;
+    
 }
 .inner-footer{
     /* border: 1px solid red; */
@@ -178,10 +179,10 @@ top: 15px;
 .footer .inner-footer a{
     display: block;
     text-align: center;
-    line-height: 50px;
+    line-height: 45px;
     text-decoration: none;
     font-family: BordeauxHeavy Regular;
-    font-size: 30px;
+    font-size: 2vw;
     background: linear-gradient(to top, red, white );
 -webkit-background-clip: text;
 -webkit-text-fill-color: transparent;
